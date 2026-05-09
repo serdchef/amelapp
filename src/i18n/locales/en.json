@@ -1,0 +1,139 @@
+{
+  "tabs": {
+    "home": "Deeds",
+    "all_deeds": "All Deeds",
+    "mektebun": "Mektebun",
+    "library": "Library",
+    "settings": "Settings"
+  },
+  "home": {
+    "title": "Virtuous Deeds",
+    "subtitle": "Daily Dhikr & Prayers",
+    "special_cases": "Special Cases / Hardship",
+    "prayer_times": "Prayer Times",
+    "next_prayer": "NEXT PRAYER",
+    "location": "Where are you?",
+    "today_deeds": "Today's Deeds",
+    "remaining": "left",
+    "min_left": "min left",
+    "doing_now": "What to do now",
+    "kerahat_notice": "Makruh Time — No nafile prayers allowed",
+    "next": "Next",
+    "where_are_you": "Where are you?",
+    "special_deeds": "Special Deeds for this Location",
+    "today": "Today",
+    "no_special_deeds": "No special deeds for today.\nDon't miss your daily prayers and dhikr.",
+    "change_city": "Change City",
+    "update": "Update",
+    "cancel": "Cancel",
+    "city": "City",
+    "country": "Country",
+    "detecting_loc": "Detecting your location...",
+    "load_error": "Could not load prayer times.\nPlease check your internet connection.",
+    "retry": "Retry",
+    "fasting_title": "Sunnah Fasting Day",
+    "fasting_desc": "The Sunnah fast observed by the Prophet (pbuh).",
+    "city_not_found": "City not found. Please try again."
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Sunrise",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  },
+  "periods": {
+    "gece": "Night / Tahajjud",
+    "gece_desc": "Night worship is very precious. If possible, perform Tahajjud and night dhikr.",
+    "sabah_sonrasi": "After Fajr",
+    "sabah_sonrasi_desc": "From after Fajr until sunrise. No optional prayers — time for dhikr and supplication.",
+    "kerahat_sabah": "Kerahat Time",
+    "kerahat_sabah_desc": "About 45 minutes after sunrise. Optional prayers are disliked. Dhikr and Quran can be read.",
+    "kusluk": "Ishraq / Duha Time",
+    "kusluk_desc": "Blessed time from after Kerahat until Dhuhr. Ishraq and Duha prayers can be performed.",
+    "ogle": "After Dhuhr",
+    "ogle_desc": "From Dhuhr until Asr. A good time for Quran, salawat, and dhikr.",
+    "ikindi": "After Asr",
+    "ikindi_desc": "From Asr until Kerahat. Prayers on Wednesdays in this period are especially accepted.",
+    "kerahat_aksam": "Kerahat Time (Evening)",
+    "kerahat_aksam_desc": "About 45 minutes before sunset. Optional prayers are disliked. Dhikr and istighfar recommended.",
+    "aksam": "After Maghrib",
+    "aksam_desc": "From Maghrib until Isha. Blessed time for evening dhikr.",
+    "yatsi": "After Isha",
+    "yatsi_desc": "After Isha prayer, including Witr and pre-sleep deeds.",
+    "yatmadan": "Before Sleeping",
+    "yatmadan_desc": "Deeds recommended to be done before going to sleep.",
+    "ezan": "Athan Time",
+    "ezan_desc": "Things to do during Athan. Doing these at every Athan brings great reward."
+  },
+  "locations": {
+    "ev": "Home",
+    "cami": "Mosque",
+    "carsi": "Market / Bazaar",
+    "yolculuk": "Travel",
+    "kabir": "Cemetery",
+    "sikinti": "Hardship / Special Cases"
+  },
+  "days": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notification": "Notification Settings",
+    "calc_method": "Calculation Method",
+    "school": "School (Asr Time)",
+    "save_btn": "Apply Changes",
+    "applied_success": "Settings applied successfully.",
+    "restart_required": "A restart is required for the language change to take full effect.",
+    "version": "Global Edition v1.2.0"
+  },
+  "onboarding": {
+    "welcome_title": "Welcome to\nVirtuous Deeds",
+    "welcome_subtitle": "Carry prayer times, daily dhikr and your Islamic practice guide with you at all times.",
+    "start": "Get Started",
+    "location_title": "Location for Prayer Times",
+    "location_subtitle": "We need your location permission to automatically calculate accurate prayer times for your city. Your location is never stored.",
+    "location_btn": "Allow Location",
+    "notif_title": "Prayer Time Notifications",
+    "notif_subtitle": "Allow us to send you reminders at each prayer time. You can disable notifications at any time.",
+    "notif_btn": "Allow Notifications",
+    "choose_language": "Choose Language",
+    "select_lang_desc": "Please select your preferred language to continue."
+  },
+  "all_deeds": {
+    "title": "All Deeds",
+    "empty": "No deeds added for this period yet."
+  },
+  "library": {
+    "title": "Dhikr Library",
+    "subtitle": "Virtuous Deeds from the Book",
+    "search_placeholder": "Search dhikr or virtue...",
+    "no_results": "No results found",
+    "loading": "Loading..."
+  },
+  "notifications": {
+    "prayer_alert": "🕌 {{prayer}} Time! Let's pray!",
+    "prayer_with_suggestion": "🕌 {{prayer}} Time! Recommended Deed: {{amel}}"
+  },
+  "common": {
+    "skip": "Skip",
+    "not_now": "Not Now",
+    "error": "An error occurred",
+    "loading": "Loading...",
+    "info": "Information",
+    "success": "Success",
+    "continue": "Continue"
+  },
+  "months": [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ]
+}

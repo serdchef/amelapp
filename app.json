@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "Faziletli Ameller",
+    "slug": "faziletli-ameller",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F2E8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.terim.faziletliameller",
+      "buildNumber": "2",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Namaz vakitlerini hesaplamak için konumunuza ihtiyacımız var.",
+        "NSLocationAlwaysUsageDescription": "Namaz vakti bildirimlerini göndermek için konumunuza ihtiyacımız var.",
+        "NSUserTrackingUsageDescription": "Bu uygulama herhangi bir izleme yapmaz."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1B3A28"
+      },
+      "package": "com.terim.faziletliameller",
+      "versionCode": 2,
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE",
+        "POST_NOTIFICATIONS"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#1B3A28",
+          "sounds": []
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Namaz vakitlerini hesaplamak için konumunuza ihtiyacımız var."
+        }
+      ],
+      "expo-font",
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+      }
+    }
+  }
+}

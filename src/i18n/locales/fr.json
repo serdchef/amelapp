@@ -1,0 +1,99 @@
+{
+  "tabs": {
+    "home": "Actions",
+    "all_deeds": "Toutes les Actions",
+    "mektebun": "Mektebun",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "title": "Actes Vertueux",
+    "subtitle": "Dhikr et Prières Quotidiennes",
+    "special_cases": "Cas Spéciaux / Difficultés",
+    "prayer_times": "Heures de Prière",
+    "next_prayer": "PROCHAINE PRIÈRE",
+    "location": "Où êtes-vous?",
+    "today_deeds": "Actes du Jour",
+    "remaining": "restant",
+    "min_left": "min restantes",
+    "doing_now": "Que faire maintenant",
+    "kerahat_notice": "Temps Makruh — Pas de prières nafile autorisées",
+    "next": "Suivant",
+    "where_are_you": "Où êtes-vous?",
+    "special_deeds": "Actes Spéciaux pour cet Endroit",
+    "today": "Aujourd'hui",
+    "no_special_deeds": "Pas d'actes spéciaux pour aujourd'hui.\nN'oubliez pas vos prières et dhikr quotidiens.",
+    "change_city": "Changer de Ville",
+    "update": "Mettre à Jour",
+    "cancel": "Annuler",
+    "city": "Ville",
+    "country": "Pays",
+    "detecting_loc": "Détection de votre position...",
+    "load_error": "Impossible de charger les heures de prière.\nVeuillez vérifier votre connexion Internet.",
+    "retry": "Réessayer"
+  },
+  "prayers": {
+    "fajr": "Fajr",
+    "sunrise": "Lever du Soleil",
+    "dhuhr": "Dhuhr",
+    "asr": "Asr",
+    "maghrib": "Maghrib",
+    "isha": "Isha"
+  },
+  "periods": {
+    "gece": "Nuit / Tahajjud",
+    "sabah_sonrasi": "Après Fajr",
+    "kerahat_sabah": "Temps Makruh",
+    "kusluk": "Ishraq / Duha",
+    "ogle": "Après Dhuhr",
+    "ikindi": "Après Asr",
+    "kerahat_aksam": "Temps Makruh (Soir)",
+    "aksam": "Après Maghrib",
+    "yatsi": "Après Isha",
+    "yatmadan": "Avant de Dormir",
+    "ezan": "Appel à la Prière"
+  },
+  "locations": {
+    "ev": "Maison",
+    "cami": "Mosquée",
+    "carsi": "Marché",
+    "yolculuk": "Voyage",
+    "kabir": "Cimetière",
+    "sikinti": "Situations Difficiles"
+  },
+  "days": {
+    "0": "Dimanche",
+    "1": "Lundi",
+    "2": "Mardi",
+    "3": "Mercredi",
+    "4": "Jeudi",
+    "5": "Vendredi",
+    "6": "Samedi"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Choix de la Langue",
+    "notification": "Paramètres de Notification",
+    "calc_method": "Méthode de Calcul",
+    "school": "École (Temps Asr)",
+    "save_btn": "Appliquer les Changements",
+    "version": "Édition Mondiale v1.2.0"
+  },
+  "onboarding": {
+    "welcome_title": "Bienvenue dans\nActes Vertueux",
+    "welcome_subtitle": "Portez avec vous les heures de prière, le dhikr quotidien et votre guide de pratique islamique en tout temps.",
+    "start": "Commencer",
+    "location_title": "Localisation pour les Heures de Prière",
+    "location_subtitle": "Nous avons besoin de votre permission de localisation pour calculer automatiquement les heures de prière précises pour votre ville.",
+    "location_btn": "Autoriser la Localisation",
+    "notif_title": "Notifications de Prière",
+    "notif_subtitle": "Permettez-nous de vous envoyer des rappels à chaque temps de prière.",
+    "notif_btn": "Autoriser les Notifications"
+  },
+  "common": {
+    "skip": "Passer",
+    "not_now": "Pas Maintenant",
+    "error": "Une erreur s'est produite",
+    "loading": "Chargement...",
+    "continue": "Continuer"
+  }
+}

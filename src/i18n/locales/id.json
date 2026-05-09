@@ -1,0 +1,99 @@
+{
+  "tabs": {
+    "home": "Amal",
+    "all_deeds": "Semua Amal",
+    "mektebun": "Mektebun",
+    "settings": "Pengaturan"
+  },
+  "home": {
+    "title": "Amalan Utama",
+    "subtitle": "Dzikir dan Doa Harian",
+    "special_cases": "Kasus Khusus / Kesulitan",
+    "prayer_times": "Waktu Shalat",
+    "next_prayer": "SHALAT BERIKUTNYA",
+    "location": "Di mana Anda?",
+    "today_deeds": "Amalan Hari Ini",
+    "remaining": "tersisa",
+    "min_left": "menit tersisa",
+    "doing_now": "Apa yang harus dilakukan sekarang",
+    "kerahat_notice": "Waktu Makruh — Tidak ada shalat nafile yang diizinkan",
+    "next": "Berikutnya",
+    "where_are_you": "Di mana Anda?",
+    "special_deeds": "Amalan Khusus untuk Tempat Ini",
+    "today": "Hari Ini",
+    "no_special_deeds": "Tidak ada amalan khusus untuk hari ini.\nJangan lewatkan shalat dan dzikir harian Anda.",
+    "change_city": "Ganti Kota",
+    "update": "Perbarui",
+    "cancel": "Batal",
+    "city": "Kota",
+    "country": "Negara",
+    "detecting_loc": "Mendeteksi lokasi Anda...",
+    "load_error": "Waktu shalat tidak dapat dimuat.\nSilakan periksa koneksi internet Anda.",
+    "retry": "Coba Lagi"
+  },
+  "prayers": {
+    "fajr": "Subuh",
+    "sunrise": "Terbit Matahari",
+    "dhuhr": "Dzuhur",
+    "asr": "Ashar",
+    "maghrib": "Maghrib",
+    "isha": "Isya"
+  },
+  "periods": {
+    "gece": "Malam / Tahajjud",
+    "sabah_sonrasi": "Setelah Subuh",
+    "kerahat_sabah": "Waktu Makruh",
+    "kusluk": "Isyraq / Dhuha",
+    "ogle": "Setelah Dzuhur",
+    "ikindi": "Setelah Ashar",
+    "kerahat_aksam": "Waktu Makruh (Sore)",
+    "aksam": "Setelah Maghrib",
+    "yatsi": "Setelah Isya",
+    "yatmadan": "Sebelum Tidur",
+    "ezan": "Waktu Azan"
+  },
+  "locations": {
+    "ev": "Rumah",
+    "cami": "Masjid",
+    "carsi": "Pasar",
+    "yolculuk": "Perjalanan",
+    "kabir": "Pemakaman",
+    "sikinti": "Situasi Sulit"
+  },
+  "days": {
+    "0": "Minggu",
+    "1": "Senin",
+    "2": "Selasa",
+    "3": "Rabu",
+    "4": "Kamis",
+    "5": "Jumat",
+    "6": "Sabtu"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": "Pilih Bahasa",
+    "notification": "Pengaturan Notifikasi",
+    "calc_method": "Metode Perhitungan",
+    "school": "Mazhab (Waktu Ashar)",
+    "save_btn": "Terapkan Perubahan",
+    "version": "Edisi Global v1.2.0"
+  },
+  "onboarding": {
+    "welcome_title": "Selamat Datang di\nAmalan Utama",
+    "welcome_subtitle": "Bawa bersama Anda waktu shalat, dzikir harian dan panduan ibadah Islam setiap saat.",
+    "start": "Mulai",
+    "location_title": "Lokasi untuk Waktu Shalat",
+    "location_subtitle": "Kami memerlukan izin lokasi Anda untuk menghitung waktu shalat yang akurat untuk kota Anda secara otomatis.",
+    "location_btn": "Izinkan Lokasi",
+    "notif_title": "Notifikasi Waktu Shalat",
+    "notif_subtitle": "Izinkan kami mengirim pengingat di setiap waktu shalat.",
+    "notif_btn": "Izinkan Notifikasi"
+  },
+  "common": {
+    "skip": "Lewati",
+    "not_now": "Tidak Sekarang",
+    "error": "Terjadi kesalahan",
+    "loading": "Memuat...",
+    "continue": "Lanjutkan"
+  }
+}

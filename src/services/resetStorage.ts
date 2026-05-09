@@ -1,0 +1,1 @@
+import AsyncStorage from " @react-native-async-storage/async-storage\; import { ONBOARDED_KEY } from \../screens/OnboardingScreen\; export async function resetApp() { await AsyncStorage.removeItem(ONBOARDED_KEY); await AsyncStorage.removeItem(\user-language\); }

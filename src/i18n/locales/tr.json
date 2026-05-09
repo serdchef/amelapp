@@ -1,0 +1,139 @@
+{
+  "tabs": {
+    "home": "Ameller",
+    "all_deeds": "Tüm Ameller",
+    "mektebun": "Mektebun",
+    "library": "Kütüphane",
+    "settings": "Ayarlar"
+  },
+  "home": {
+    "title": "Faziletli Ameller",
+    "subtitle": "Günlük Zikir ve Dualar",
+    "special_cases": "Özel Durumlar / Sıkıntı",
+    "prayer_times": "Ezan Vakitleri",
+    "next_prayer": "SONRAKİ VAKİT",
+    "location": "Neredesin?",
+    "today_deeds": "Günün Amelleri",
+    "remaining": "kaldı",
+    "min_left": "dk kaldı",
+    "doing_now": "Şu An Yapılacaklar",
+    "kerahat_notice": "Kerahat Vakti — Bu vakitte nafile namaz kılınmaz",
+    "next": "Sonraki",
+    "where_are_you": "Neredesin?",
+    "special_deeds": "Bu Yere Özel Ameller",
+    "today": "Bugün",
+    "no_special_deeds": "Bu gün için kayıtlı özel bir amel yok.\nGünlük namazlarınızı ve zikirlerinizi aksatmayın.",
+    "change_city": "Şehir Değiştir",
+    "update": "Güncelle",
+    "cancel": "İptal",
+    "city": "Şehir",
+    "country": "Ülke",
+    "detecting_loc": "Konumunuz belirleniyor...",
+    "load_error": "Vakitler yüklenemedi.\nLütfen internet bağlantınızı kontrol edin.",
+    "retry": "Tekrar Dene",
+    "fasting_title": "Sünnet Orucu Günü",
+    "fasting_desc": "Hz. Peygamber'in (s.a.v) devam ettiği sünnet orucudur.",
+    "city_not_found": "Şehir bulunamadı. Lütfen tekrar deneyin."
+  },
+  "prayers": {
+    "fajr": "İmsak",
+    "sunrise": "Güneş",
+    "dhuhr": "Öğle",
+    "asr": "İkindi",
+    "maghrib": "Akşam",
+    "isha": "Yatsı"
+  },
+  "periods": {
+    "gece": "Gece / Teheccüd",
+    "gece_desc": "Gece ibadeti Allah'ın katında çok kıymetlidir. Mümkünse teheccüd namazı kılın ve gece zikirlerini yapın.",
+    "sabah_sonrasi": "Sabah Namazı Sonrası",
+    "sabah_sonrasi_desc": "Sabah namazını kıldıktan sonra güneş doğana kadar. Nafile namaz kılınmaz — zikir, dua ve tesbihat vakti.",
+    "kerahat_sabah": "Kerahat Vakti",
+    "kerahat_sabah_desc": "Güneş doğduktan sonra ~45 dakika nafile namaz kılmak mekruhtur. Zikir, Kur'an okuma ve dua yapılabilir.",
+    "kusluk": "İşrak / Kuşluk Vakti",
+    "kusluk_desc": "Kerahat vakti bittikten sonra öğle ezanına kadar olan bereketli vakit. İşrak ve Kuşluk namazı kılınabilir.",
+    "ogle": "Öğle Namazı Sonrası",
+    "ogle_desc": "Öğle namazından sonra ikindiye kadar. Kur'an, salevat ve zikir için güzel bir vakit.",
+    "ikindi": "İkindi Namazı Sonrası",
+    "ikindi_desc": "İkindi namazından sonra kerahat başlayana dek. Çarşamba günlerinde bu vakitteki dua özellikle kabul olur.",
+    "kerahat_aksam": "Kerahat Vakti (Akşam)",
+    "kerahat_aksam_desc": "Güneş batımına ~45 dakika kala nafile namaz mekruhtur. Zikir ve istiğfar yapabilirsiniz.",
+    "aksam": "Akşam Namazı Sonrası",
+    "aksam_desc": "Akşam namazından sonra Yatsı'ya kadar. Akşam zikirlerinin yapılacağı bereketli zaman.",
+    "yatsi": "Yatsı Namazı Sonrası",
+    "yatsi_desc": "Yatsı namazından sonra Vitir ve uyku öncesi ameller.",
+    "yatmadan": "Yatmadan Önce",
+    "yatmadan_desc": "Uyumadan önce mutlaka yapılması tavsiye edilen ameller.",
+    "ezan": "Ezan Vakti",
+    "ezan_desc": "Ezan okunurken yapılacaklar. Her ezanda bu ameli yapmak büyük sevaptır."
+  },
+  "locations": {
+    "ev": "Ev",
+    "cami": "Cami / Mescid",
+    "carsi": "Çarşı / Market",
+    "yolculuk": "Yolculuk",
+    "kabir": "Kabir Ziyareti",
+    "sikinti": "Özel Durumlar / Sıkıntı Anı"
+  },
+  "days": {
+    "0": "Pazar",
+    "1": "Pazartesi",
+    "2": "Salı",
+    "3": "Çarşamba",
+    "4": "Perşembe",
+    "5": "Cuma",
+    "6": "Cumartesi"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil Seçimi",
+    "notification": "Bildirim Ayarları",
+    "calc_method": "Hesaplama Metodu",
+    "school": "Mezhep (İkindi Vakti)",
+    "save_btn": "Değişiklikleri Uygula",
+    "applied_success": "Ayarlar başarıyla uygulandı.",
+    "restart_required": "Dil değişikliğinin tam etkili olması için uygulama yeniden başlatılmalıdır.",
+    "version": "Global Sürüm v1.2.0"
+  },
+  "onboarding": {
+    "welcome_title": "Faziletli Ameller'e\nHoş Geldiniz",
+    "welcome_subtitle": "Namaz vakitlerini, günlük zikirlerinizi ve İslami amel rehberinizi her zaman yanınızda taşıyın.",
+    "start": "Hemen Başla",
+    "location_title": "Namaz Vakitleri için Konum",
+    "location_subtitle": "Bulunduğunuz şehre göre otomatik namaz vakti hesaplamak için konum izninize ihtiyacımız var. Konumunuz asla saklanmaz.",
+    "location_btn": "Konuma İzin Ver",
+    "notif_title": "Namaz Vakti Bildirimleri",
+    "notif_subtitle": "Her namaz vaktinde size hatırlatma gönderememize izin verin. Bildirimleri istediğiniz zaman kapatabilirsiniz.",
+    "notif_btn": "Bildirimlere İzin Ver",
+    "choose_language": "Dil Seçin / Choose Language",
+    "select_lang_desc": "Devam etmek için lütfen dil seçiminizi yapın.\nPlease select your preferred language."
+  },
+  "all_deeds": {
+    "title": "Tüm Vakitler",
+    "empty": "Bu vakit için henüz bir amel eklenmemiş."
+  },
+  "library": {
+    "title": "Zikir Kütüphanesi",
+    "subtitle": "Kitaptan Faziletli Ameller",
+    "search_placeholder": "Zikir veya fazilet ara...",
+    "no_results": "Sonuç bulunamadı",
+    "loading": "Yükleniyor..."
+  },
+  "notifications": {
+    "prayer_alert": "🕌 {{prayer}} Vakti! Haydin namaza!",
+    "prayer_with_suggestion": "🕌 {{prayer}} Vakti! Önerilen Amel: {{amel}}"
+  },
+  "common": {
+    "skip": "Atla",
+    "not_now": "Şimdi Değil",
+    "error": "Bir hata oluştu",
+    "loading": "Yükleniyor...",
+    "info": "Bilgi",
+    "success": "Başarılı",
+    "continue": "Devam Et"
+  },
+  "months": [
+    "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran",
+    "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"
+  ]
+}
